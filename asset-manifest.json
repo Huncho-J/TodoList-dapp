@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/TodoList-dapp/static/css/main.393886c2.chunk.css",
+    "main.js": "/TodoList-dapp/static/js/main.8ed1b84a.chunk.js",
+    "main.js.map": "/TodoList-dapp/static/js/main.8ed1b84a.chunk.js.map",
+    "runtime-main.js": "/TodoList-dapp/static/js/runtime-main.9b6c981d.js",
+    "runtime-main.js.map": "/TodoList-dapp/static/js/runtime-main.9b6c981d.js.map",
+    "static/css/2.658248ec.chunk.css": "/TodoList-dapp/static/css/2.658248ec.chunk.css",
+    "static/js/2.1a44ff50.chunk.js": "/TodoList-dapp/static/js/2.1a44ff50.chunk.js",
+    "static/js/2.1a44ff50.chunk.js.map": "/TodoList-dapp/static/js/2.1a44ff50.chunk.js.map",
+    "static/js/3.51c83ce2.chunk.js": "/TodoList-dapp/static/js/3.51c83ce2.chunk.js",
+    "static/js/3.51c83ce2.chunk.js.map": "/TodoList-dapp/static/js/3.51c83ce2.chunk.js.map",
+    "index.html": "/TodoList-dapp/index.html",
+    "static/css/2.658248ec.chunk.css.map": "/TodoList-dapp/static/css/2.658248ec.chunk.css.map",
+    "static/css/main.393886c2.chunk.css.map": "/TodoList-dapp/static/css/main.393886c2.chunk.css.map",
+    "static/js/2.1a44ff50.chunk.js.LICENSE.txt": "/TodoList-dapp/static/js/2.1a44ff50.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.9b6c981d.js",
+    "static/css/2.658248ec.chunk.css",
+    "static/js/2.1a44ff50.chunk.js",
+    "static/css/main.393886c2.chunk.css",
+    "static/js/main.8ed1b84a.chunk.js"
+  ]
+}
